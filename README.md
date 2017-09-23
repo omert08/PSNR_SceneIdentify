@@ -1,4 +1,4 @@
-# carIdentify
+# PSNR_SceneIdentify
 This programs  gets two random car images and identify them whether image is belong to same car or not. If so you can do also size comparison between two same cars.
 
 It has also simple user interface designed within QT. It uses PSNR and MMSIM values over images to get if images are belong to same scene or not. 
